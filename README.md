@@ -4,7 +4,7 @@
 
 **Link to dataset:** https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales
 
-**Dataset Description: **
+**Dataset Description:**
 •	Date: Date of purchase from 1st January 2011 to 31st July 2016
 •	Day:  The Day of Purchase eg 1st
 •	Month: The Month
@@ -40,6 +40,10 @@
 4.	Which gender produced the best sales in the store
 5.	How does the age group (adult, young adult, senior and youth) affect the trends of the sales
 6.	The top products ordered over the years
+   
+Analytical Dahshboard
+![Dashboard](https://github.com/user-attachments/assets/85141b46-b779-4852-95b0-44a9ab80e76d)
+
 
 **Analysis Steps
 Data Cleaning and Transformation:** The following process took place for the transformation and cleaning of the sales data
